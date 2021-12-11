@@ -1,2 +1,11 @@
 # machine-learning-introduction
-Some algorithms of machine learning using library scikit-learn
+
+Some classifier algorithms of machine learning using library scikit-learn
+
+The tested classifier algorithms:
+
+- Decision Tree
+- KNN (k-nearest neighbors)
+- Logistic Regression
+- Naive Bayes
+- SVM (Support Vector Machine)
