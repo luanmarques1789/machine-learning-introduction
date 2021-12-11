@@ -1,2 +1,2 @@
-# machine-learning-introdution
-Some algorithms of machine learning using framework sklearn
+# machine-learning-introduction
+Some algorithms of machine learning using library scikit-learn
